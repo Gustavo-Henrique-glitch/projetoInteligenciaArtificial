@@ -1,0 +1,6 @@
+venv/
+config.py
+.ipynb_checkpoints/
+__pycache__/
+dataset_unificado/
+melhor_modelo.keras
